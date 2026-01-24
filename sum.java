@@ -8,7 +8,9 @@ public class sum {
     public static void main(String[] args) {
         Scanner sc = new  Scanner(System.in);
         int sum = sc.nextInt();
+        Syatem.out.println("The sum of Numbers :");
         System.out.println(sum1(sum));
         sc.close();
     }
+
 }
