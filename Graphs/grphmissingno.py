@@ -39,3 +39,4 @@ plt.xlabel("Input Size (n)")
 plt.ylabel("Time")
 plt.title("Missing Number Algorithm: Actual vs O(n)")
 plt.show()
+
