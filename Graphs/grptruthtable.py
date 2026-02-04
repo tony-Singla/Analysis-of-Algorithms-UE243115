@@ -34,3 +34,4 @@ plt.title("Truth Table Generation: Actual vs Theoretical O(2ⁿ)")
 plt.legend()
 plt.grid(True)
 plt.show()
+
