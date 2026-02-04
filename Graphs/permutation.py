@@ -34,3 +34,4 @@ plt.title("Permutation Algorithm: Actual vs Theoretical O(n!)")
 plt.legend()
 plt.grid(True)
 plt.show()
+
