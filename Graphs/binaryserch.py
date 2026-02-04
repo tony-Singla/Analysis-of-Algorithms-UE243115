@@ -38,3 +38,4 @@ plt.title("Binary Search: Actual vs Theoretical O(log n)")
 plt.legend()
 plt.grid(True)
 plt.show()
+
