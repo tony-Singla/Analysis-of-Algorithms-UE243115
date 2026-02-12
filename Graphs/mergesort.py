@@ -66,3 +66,4 @@ plt.xlabel("n (array size)")
 plt.ylabel("Time")
 plt.title("n vs Time for Merge Sort")
 plt.show()
+
