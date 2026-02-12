@@ -10,6 +10,7 @@ def partition(arr, low, high):
     i = low - 1
     j = high + 1
 
+    
     while True:
         i += 1
         while arr[i] < pivot:
@@ -47,4 +48,5 @@ plt.xlabel("n (Array Size)")
 plt.ylabel("time")
 plt.title("n vs Time for Quick Sort ")
 plt.show()
+
 
