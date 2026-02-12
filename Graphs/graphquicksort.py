@@ -47,3 +47,4 @@ plt.xlabel("n (Array Size)")
 plt.ylabel("time")
 plt.title("n vs Time for Quick Sort ")
 plt.show()
+
