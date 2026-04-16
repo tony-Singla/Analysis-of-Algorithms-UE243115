@@ -403,7 +403,28 @@ Large matrix multiplication, Image processing, Scientific computing
 
 <img width="729" height="590" alt="image" src="https://github.com/user-attachments/assets/6d6904d7-d8a8-47ee-a583-0ebd5c040167" />
 
-26. 
+26. matrix multiplication by divide and conquer
+
+Aim:
+To multiply two matrices using Divide and Conquer method.
+
+Pseudo code:
+Divide matrices into 4 submatrices
+Compute 8 recursive multiplications
+Combine results to form final matrix
+
+Recurrence:
+T(n)=8T(n/2)+O(n2)
+
+Time Complexity:
+O(n3 )
+
+Applications:
+Basic matrix multiplication, Scientific computing, Computer graphics
+
+<img width="765" height="591" alt="image" src="https://github.com/user-attachments/assets/4e9c82e4-a7c9-4800-a545-2632919e14f8" />
+
+
 
 
  
