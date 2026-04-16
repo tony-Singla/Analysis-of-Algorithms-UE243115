@@ -380,6 +380,32 @@ Applications: Digital logic, Boolean algebra
 
 <img width="792" height="577" alt="image" src="https://github.com/user-attachments/assets/4abe412e-6026-436f-b595-281447348afb" />
 
+25. strassan
+
+Aim:
+To multiply two matrices using Strassen’s method.
+
+Pseudo code:
+Divide matrices into 4 submatrices
+Compute 7 recursive multiplications (M1 to M7)
+Combine results to form final matrix
+
+Recurrence:
+T(n)=7T(n/2)+O(n2)
+
+Time Complexity:
+O(n
+2.81
+)
+
+Applications:
+Large matrix multiplication, Image processing, Scientific computing
+
+<img width="729" height="590" alt="image" src="https://github.com/user-attachments/assets/6d6904d7-d8a8-47ee-a583-0ebd5c040167" />
+
+26. 
+
+
  
 
 
