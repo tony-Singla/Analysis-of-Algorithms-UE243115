@@ -15,6 +15,9 @@ Recurrence: T(n)=T(n-1)+1
 Time Complexity: O(n)
 Applications: Polynomial calculation, numerical methods
 
+<img width="740" height="597" alt="image" src="https://github.com/user-attachments/assets/876f5f43-6741-41d7-a4f7-01810bd6a06d" />
+
+
 2. Tower of Hanoi
 
 Aim: Move disks using recursion.
@@ -29,6 +32,9 @@ Recurrence: T(n)=2T(n-1)+1
 Time Complexity: O(2ⁿ)
 Applications: Recursion learning, puzzle solving
 
+<img width="739" height="589" alt="image" src="https://github.com/user-attachments/assets/769300a0-f807-47dd-b329-901a08e34249" />
+
+
 3. Binary Search
 
 Aim: Search in sorted array.
@@ -42,6 +48,9 @@ Go left or right accordingly
 Recurrence: T(n)=T(n/2)+1
 Time Complexity: O(log n)
 Applications: Database search, fast lookup
+
+<img width="755" height="589" alt="image" src="https://github.com/user-attachments/assets/81623cdc-1525-432f-8269-91214af50c00" />
+
 
 4. Convex Hull
 
@@ -99,6 +108,9 @@ Recurrence: O(n)
 Time Complexity: O(n)
 Applications: Data validation, error detection
 
+<img width="770" height="579" alt="image" src="https://github.com/user-attachments/assets/7a65c3a7-0e75-4658-909a-9331dfd198c2" />
+
+
 8. Insertion Sort
 
 Aim: Sort elements.
@@ -112,6 +124,9 @@ Repeat for all
 Recurrence: T(n)=T(n-1)+n
 Time Complexity: O(n²)
 Applications: Small data sorting, online sorting
+
+<img width="746" height="591" alt="image" src="https://github.com/user-attachments/assets/b18dfead-2dd1-450f-b79b-7687bbf596fa" />
+
 
 9. Knapsack (0/1)
 
@@ -170,6 +185,9 @@ Recurrence: O(n)
 Time Complexity: O(n)
 Applications: Unsorted data search, simple lookup
 
+<img width="770" height="594" alt="image" src="https://github.com/user-attachments/assets/b2207fbe-dd88-459f-907c-c522c414c6cf" />
+
+
 13. Matrix Chain Multiplication
 
 Aim: Minimize multiplication cost.
@@ -200,6 +218,9 @@ Recurrence: T(n)=2T(n/2)+n
 Time Complexity: O(n log n)
 Applications: Large data sorting, stable sorting
 
+<img width="775" height="591" alt="image" src="https://github.com/user-attachments/assets/c1f4ef12-8520-496a-acf0-99e7d21c0ab0" />
+
+
 15. Missing Number
 
 Aim: Find missing number.
@@ -212,6 +233,9 @@ Subtract actual sum
 Recurrence: O(n)
 Time Complexity: O(n)
 Applications: Data checking, sequence problems
+
+<img width="763" height="591" alt="image" src="https://github.com/user-attachments/assets/b06b2735-7a5d-429f-9e56-fa82fe153124" />
+
 
 16. Multistage Graph
 
@@ -241,6 +265,9 @@ Recurrence: T(n)=n*T(n-1)
 Time Complexity: O(n!)
 Applications: Combinations, scheduling
 
+<img width="772" height="599" alt="image" src="https://github.com/user-attachments/assets/518cd935-d4bf-4555-a2c4-6c51ab4807c7" />
+
+
 18. Power
 
 Aim: Compute power of number.
@@ -254,6 +281,9 @@ Repeat
 Recurrence: T(n)=T(n/2)+1
 Time Complexity: O(log n)
 Applications: Fast calculations, cryptography
+
+<img width="767" height="588" alt="image" src="https://github.com/user-attachments/assets/336093be-077f-4286-8a88-e3f3393f730e" />
+
 
 19. Prim’s Algorithm
 
@@ -283,6 +313,9 @@ Recurrence: T(n)=2T(n/2)+n
 Time Complexity: O(n log n), worst O(n²)
 Applications: Fast sorting, data processing
 
+<img width="768" height="587" alt="image" src="https://github.com/user-attachments/assets/9f2e401d-5836-41dc-bb05-2013a95c420a" />
+
+
 21. Ratio
 
 Aim: Calculate value/weight ratio.
@@ -295,6 +328,9 @@ Sort items
 Recurrence: Not recursive
 Time Complexity: O(n log n)
 Applications: Greedy algorithms, knapsack
+
+<img width="725" height="576" alt="image" src="https://github.com/user-attachments/assets/bda2993e-7688-4150-b4c7-04cfdc6d176f" />
+
 
 22. Selection Sort
 
@@ -310,6 +346,9 @@ Recurrence: O(n²)
 Time Complexity: O(n²)
 Applications: Simple sorting, small data
 
+<img width="764" height="600" alt="image" src="https://github.com/user-attachments/assets/96fd99c0-29f3-4e0c-bd49-6ee2bb87241a" />
+
+
 23. Sum
 
 Aim: Find sum of elements.
@@ -322,6 +361,9 @@ Add all elements
 Recurrence: O(n)
 Time Complexity: O(n)
 Applications: Total calculation, statistics
+
+<img width="784" height="596" alt="image" src="https://github.com/user-attachments/assets/80170904-2a4f-4f94-b30e-f62885e72ee8" />
+
 
 24. Truth Table
 
@@ -336,9 +378,9 @@ Recurrence: O(2ⁿ)
 Time Complexity: O(2ⁿ)
 Applications: Digital logic, Boolean algebra
 
+<img width="792" height="577" alt="image" src="https://github.com/user-attachments/assets/4abe412e-6026-436f-b595-281447348afb" />
 
-
-<img width="751" height="577" alt="image" src="https://github.com/user-attachments/assets/e7b14755-2091-4658-81aa-5dfaf130690f" />
+ 
 
 
  
