@@ -4,9 +4,11 @@ Algorithms
 
 Horner Rule
 
+
 Aim: Evaluate polynomial.
 
 Pseudo code:
+
 Take last coefficient
 Multiply with x and add next
 Repeat for all terms
@@ -472,6 +474,15 @@ Add to tree
 Recurrence: Not recursive
 Time Complexity: O(V²) / O(E log V)
 Applications: Network design, wiring
+
+dynamic programming 
+
+0/1 knapsack 
+
+Longest common subsequence 
+
+Travelling salesman problem 
+
 
 
 
